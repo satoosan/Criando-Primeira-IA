@@ -82,3 +82,6 @@ print(novos)
 novos.to_excel('Tabela com Previsao.xlsx', index=False)
 ```
 ## 
+
+## Preview no Jupyter
+https://github.com/satoosan/Criando-Primeira-IA/blob/main/Previs%C3%A3o%20de%20Vendas.ipynb
